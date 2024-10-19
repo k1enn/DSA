@@ -1,3 +1,8 @@
+## Coding Exercise
+- [Queue](https://github.com/k1enn/DSA/blob/main/Quiz/Queue/Readme.md)
+
+---
+
 ## Disclaimer
 This repository is intended for educational purposes only. It contains solutions and results related to Data Structures and Algorithms (DSA) for HUFLIT students. Please note the following:
 
