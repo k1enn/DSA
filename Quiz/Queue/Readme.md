@@ -9,11 +9,11 @@ Thiết kế lớp hàng đợi số nguyên dùng cấu trúc mảng 1 chiều 
 ```cs
 class MyQueue
 {
-		int [] qArray;
-		int	qMax;
-		int	qFront;
-		int	qRear;
-		//Các phương thức
+	int [] qArray;
+	int qMax;
+	int qFront;
+	int qRear;
+	//Các phương thức
 }
 ```
 ## **Lý thuyết**
