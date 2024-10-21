@@ -1,5 +1,5 @@
-## Question
-- [Buoi1](https://github.com/k1enn/DSA/blob/main/Buoi1/buoi1.md)
+## Questions
+- [Buoi1](https://github.com/k1enn/DSA/blob/main/Buoi1/buoi1.md) **Cơ bản về phương pháp lập trình hướng đối tượng**
 ## Coding Exercise
 - [Queue](https://github.com/k1enn/DSA/blob/main/Quiz/Queue/Readme.md)
 
