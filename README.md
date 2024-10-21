@@ -13,7 +13,7 @@
   </p>
 </div>
 
-## Buổi học
+## Lesson
 - [Buổi 1: Cơ bản về phương pháp lập trình hướng đối tượng](https://github.com/k1enn/DSA/blob/main/Buoi1/buoi1.md) - [Đáp án](https://github.com/k1enn/DSA/tree/main/Buoi1)
 - [Buổi 2: Giải thuật tìm kiếm và sắp xếp trên mảng 1 chiều](https://github.com/k1enn/DSA/blob/main/Buoi2/buoi2.md) - [Đáp án](https://github.com/k1enn/DSA/tree/main/Buoi2)
 - [Buổi 3: Giải thuật tìm kiếm và sắp xếp trên mảng 1 chiều](https://github.com/k1enn/DSA/blob/main/Buoi3/buoi3.md) - [Đáp án](https://github.com/k1enn/DSA/tree/main/Buoi3)
