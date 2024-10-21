@@ -1,19 +1,25 @@
-
 <div align="center">
 	<h1>Buổi 1</h1>
-<h2>Chủ đề: Cơ bản về phương pháp lập trình hướng đối tượng</h2>
+	<h2>Chủ đề: Cơ bản về phương pháp lập trình hướng đối tượng</h2>
 </div>
-<div align="center"><p><strong>Follow me:</strong></p></div>
+
 <div align="center">
-    <p>
-        <img style="padding-left: 10px;" src="https://github.com/k1enn/Web_Programming/blob/main/Buoi1/Bai01/images/github.png" alt="Logo" width="20" height="20">
-        <strong><a href="https://github.com/k1enn" target="_blank">GitHub</a></strong> 
-	<img style="padding-left: 10px;" src="https://github.com/k1enn/Web_Programming/blob/main/Buoi1/Bai01/images/codeforces.png" alt="Logo" width="20" height="20">
-        <strong><a href="https://codeforces.com/profile/dinhtrungkien" target="_blank">CodeForces</a></strong>
-	    <img style="padding-left: 10px;" src="https://github.com/k1enn/Web_Programming/blob/main/Buoi1/Bai01/images/linkedin.png" alt="Logo" width="20" height="20">
-        <strong><a href="https://www.linkedin.com/in/ki%C3%AAn-trung-1645b532a/" target="_blank">LinkedIn</a></strong>
-    </p>
+  <p><strong>Follow me:</strong></p>
 </div>
+
+<div align="center">
+  <p>
+    <img src="https://github.com/k1enn/Web_Programming/blob/main/Buoi1/Bai01/images/github.png" alt="GitHub Logo" width="20" height="20" />
+    <strong><a href="https://github.com/k1enn" target="_blank">GitHub</a></strong>
+    
+    <img style="padding-left: 10px;" src="https://github.com/k1enn/Web_Programming/blob/main/Buoi1/Bai01/images/codeforces.png" alt="Codeforces Logo" width="20" height="20"/>
+    <strong><a href="https://codeforces.com/profile/dinhtrungkien" target="_blank">Codeforces</a></strong>
+    
+    <img style="padding-left: 10px;" src="https://github.com/k1enn/Web_Programming/blob/main/Buoi1/Bai01/images/linkedin.png" alt="LinkedIn Logo" width="20" height="20" />
+    <strong><a href="https://www.linkedin.com/in/ki%C3%AAn-trung-1645b532a/" target="_blank">LinkedIn</a></strong>
+  </p>
+</div>
+
 Cho thông tin của sinh viên gồm:
 
 - *Mã số sinh viên (maSo): Chuỗi ký tự*
