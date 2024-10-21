@@ -1,3 +1,4 @@
+<h1 align="center">Data Structures and Algorithms</h1>
 <div align="center">
   <h3>Follow me: </h3>
 </div>
