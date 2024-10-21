@@ -1,6 +1,4 @@
-Trường ĐH HUFLIT – Bộ môn HTTT, Khoa CNTT 	Bài tập thực hành Cấu trúc dữ liệu & giải thuật
-
-**LAB 01**
+**Buổi 01**
 **Chủ đề: Cơ bản về phương pháp lập trình hướng đối tượng**
 Cho thông tin của sinh viên gồm:
 
@@ -17,11 +15,13 @@ Hãy thiết kế lớp sinh viên (SinhVien) gồm các thông tin trên.
 ### Yêu cầu 1: Lớp sinh viên (SinhVien) gồm có các chức năng:
 1.	Nhập, xuất thông tin sinh viên
 2.	Xếp loại sinh viên dựa vào điểm trung bình tích lũy theo tiêu chí (diemTB < 5: Kém; 5 <= diemTB < 7: Trung bình; 7 <= diemTB < 8: Khá; còn lại là Giỏi) 
-Lưu ý các ràng buộc: 
+ **Lưu ý các ràng buộc:**
 -	Tuổi của sinh viên từ 17 đến 70
--	Điểm trung bình từ 0 đến 10	Tạo một Project ngôn ngữ C# mới với tên là HoVaTenSV_Lab01 (trong đó: HoVaTenSV là họ và tên của sinh viên, không khoảng trắng và không dấu tiếng Việt) 
-Bước 1. Tạo class mới đặt tên file là SinhVien
-Bước 2. Khai báo các thuộc tính
+-	Điểm trung bình từ 0 đến 10	
+#### Hướng dẫn:
+Tạo một Project ngôn ngữ C# mới với tên là `HoVaTenSV_Lab01` (trong đó: HoVaTenSV là họ và tên của sinh viên, không khoảng trắng và không dấu tiếng Việt) 
+**Bước 1.** Tạo class mới đặt tên file là `SinhVien.cs`
+**Bước 2.** Khai báo các thuộc tính
 ```cs
 namespace HoVaTenSV_Lab01
 {
@@ -38,20 +38,20 @@ namespace HoVaTenSV_Lab01
     }
 }
 ```
-Bước 3. Bổ sung vào class SinhVien
+**Bước 3.** Bổ sung vào class SinhVien
 1.	Các properties get/set
 2.	Các constructors
--	Default: public SinhVien() { }
--	Parameter: 
-public SinhVien(string ms, string ht, string cn, int ns, float dtb) { }
-(Thông tin xếp loại được thực hiện bên trong constructor này bằng cách gọi phương thức XepLoai(), không cần truyền vào tham số loại của sinh viên)
--	Copy: public SinhVien(SinhVien sv) { }
+    - Default: `public SinhVien() { }`
+    - Parameter: 
+    `public SinhVien(string ms, string ht, string cn, int ns, float dtb) { }`
+    (Thông tin xếp loại được thực hiện bên trong constructor này bằng cách gọi phương thức XepLoai(), không cần truyền vào tham số loại của sinh viên)
+    - Copy: `public SinhVien(SinhVien sv) { }`
 3.	Các phương thức theo yêu cầu
--	Kiểm tra ràng buộc tuổi: public bool KiemTraNamSinh(int ns) { }
--	Kiểm tra ràng buộc điểm: public bool KiemTraDiemTB(float dtb) { }
--	Nhập: public void Nhap() { }
--	Xuất: public void Xuat() { }
--	Xếp loại: public void XepLoai() { }
+    -	Kiểm tra ràng buộc tuổi: `public bool KiemTraNamSinh(int ns) { }`
+    -	Kiểm tra ràng buộc điểm: `public bool KiemTraDiemTB(float dtb) { }`
+    -	Nhập: `public void Nhap() { }`
+    -	Xuất: `public void Xuat() { }`
+    -	Xếp loại: `public void XepLoai() { }`
 ### Yêu cầu 2: Chương trình thực hiện theo yêu cầu sau:
 1.	Tạo 1 đối tượng rỗng svA
 2.	Nhập thông tin cho svA
@@ -63,7 +63,70 @@ public SinhVien(string ms, string ht, string cn, int ns, float dtb) { }
 8.	Xuất thông tin svC
 9.	Xuất thông tin svB
 10.	Kiểm tra xem thông tin của svB có thay đổi không (nếu svB bị thay đổi như thông tin svC thì Copy Contructor viết sai và phải chỉnh sửa lại)
+#### Hướng dẫn:
+Gọi thực hiện yêu cầu của chương trình trong phương thức `Main()` của class `Program`
+```cs
+namespace HoVaTenSV_Lab01
+{
+    class Program
+    {
+        static void TestSinhVien()
+        {
+	     SinhVien svA = new SinhVien();
+            svA.Nhap();
+            Console.WriteLine("Thông tin svA:");
+            svA.Xuat();
+            
+            SinhVien svB = new SinhVien("18DH001", 
+				"Đinh Trung Kiên", 
+				"CNPM", 2005, 7.6F);
+            //Tiếp tục cho những yêu cầu khác
+
+	 } 
+        
+        static void Main(string[] args)
+        {
+            TestSinhVien();
+        }
+    }
+```
 ### Yêu cầu 3: 
 Tạo lớp mảng chứa n (0<n≤1000000) sinh viên (MangSinhVien) gồm có các chức năng: Nhập và xuất danh sách sinh viên.
-
+#### Hướng dẫn:
+**Bước 1.** Tạo class mới trong HoVaTenSV_Lab01 và đặt tên file là MangSinhVien
+**Bước 2.** Khai báo các thuộc tính
+```cs
+namespace BaiTap1
+{
+    class MangSinhVien
+    {
+        private SinhVien []a;
+	 //Các phương thức ...
+    }
+}
+```
+**Bước 3.** Bổ sung vào class MangSinhVien
+1.	Các properties get/set
+2.	Các constructors
+**Bước 4.** Cài đặt các phương thức kiểm tra kích thước, nhập và xuất danh sách sinh viên
+**Bước 5.** Gọi thực hiện yêu cầu của chương trình trong phương thức `Main()` của class `Program`
+```cs
+namespace HoVaTenSV_Lab01
+{
+    class Program
+    {
+        static void TestMangSinhVien()
+        {
+	     MangSinhVien dssv = new MangSinhVien();
+            dssv.Nhap();
+	     Console.WriteLine("Danh sach sinh vien:");
+            dssv.Xuat();
+	    } 
+        static void Main(string[] args)
+        {
+            TestMangSinhVien();
+        }
+    }
+}
+```
 
