@@ -30,4 +30,3 @@ Sử dụng phương pháp **tìm kiếm nhị phân**: Cho phép người dùng
     -	Nhập thông tin cho một quyển sách x
     -	Nếu không trùng mã sách trong danh sách thì áp dụng ý tưởng của phương pháp Insertion Sort để chèn quyển sách x vào danh sách sao cho danh sách vẫn đảm bảo thứ tự tăng dần của mã sách.
 7.	Chương trình có phân chia class hợp lý, có sử dụng menu dạng số để chọn chức năng thực hiện và các kết quả thể hiện rõ ràng.
-
