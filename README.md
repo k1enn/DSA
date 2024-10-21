@@ -1,5 +1,5 @@
 <div align="center">
-  <p><strong>Follow me:</strong></p>
+  <h3>Follow me: </h3>
 </div>
 
 <div align="center">
