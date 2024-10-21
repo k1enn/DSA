@@ -1,6 +1,6 @@
 <div align="center">
     <p>
-        <img src="https://github.com/k1enn/Web_Programming/tree/main/Buoi1/Bai01/images/github_logo" alt="Logo" width="50" height="50">
+        <img src="https://github.com/k1enn/Web_Programming/blob/main/Buoi1/Bai01/images/github_logo.png" alt="Logo" width="50" height="50">
         <strong><a href="https://github.com/k1enn" target="_blank">GitHub</a></strong> 
 	<img src="https://github.com/k1enn/Web_Programming/tree/main/Buoi1/Bai01/images/codeforces_logo" alt="Logo" width="50" height="50">
         <strong><a href="https://codeforces.com/profile/dinhtrungkien" target="_blank">CodeForces</a></strong>
