@@ -1,3 +1,8 @@
+
+<div align="center">
+	<h2>Buổi 1</h2>
+<h3>Chủ đề: Cơ bản về phương pháp lập trình hướng đối tượng</h3>
+</div>
 <div align="center"><p><strong>Follow me:</strong></p></div>
 <div align="center">
     <p>
@@ -9,10 +14,6 @@
         <strong><a href="https://www.linkedin.com/in/ki%C3%AAn-trung-1645b532a/" target="_blank">LinkedIn</a></strong>
     </p>
 </div>
-
-
-**Buổi 01**
-**Chủ đề: Cơ bản về phương pháp lập trình hướng đối tượng**
 Cho thông tin của sinh viên gồm:
 
 - *Mã số sinh viên (maSo): Chuỗi ký tự*
