@@ -14,6 +14,7 @@
         <strong><a href="https://www.linkedin.com/in/ki%C3%AAn-trung-1645b532a/" target="_blank">LinkedIn</a></strong>
     </p>
 </div>
+
 ## Nội dung
 Dùng cấu trúc dữ liệu mảng 1 chiều, viết chương trình (ngôn ngữ C#) quản lý danh sách các quyển sách với các chức năng sau:
 1.	Các properties get/set và constructors cần thiết
