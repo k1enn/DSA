@@ -1,7 +1,7 @@
 
 <div align="center">
-	<h2>Buổi 1</h2>
-<h3>Chủ đề: Cơ bản về phương pháp lập trình hướng đối tượng</h3>
+	<h1>Buổi 1</h1>
+<h2>Chủ đề: Cơ bản về phương pháp lập trình hướng đối tượng</h2>
 </div>
 <div align="center"><p><strong>Follow me:</strong></p></div>
 <div align="center">
