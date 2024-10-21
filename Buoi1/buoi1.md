@@ -1,3 +1,5 @@
+<p align="center">This text is centered</p>
+
 **Buổi 01**
 **Chủ đề: Cơ bản về phương pháp lập trình hướng đối tượng**
 Cho thông tin của sinh viên gồm:
