@@ -1,5 +1,5 @@
 <div align="center">
-	<h1>Buổi 1<br>Chủ đề: Cơ bản về phương pháp lập trình hướng đối tượng</h1>
+	<h1>Buổi 2<br>Chủ đề: Giải thuật tìm kiếm và sắp xếp trên mảng 1 chiều</h1>
 </div>
 
 <div align="center">
