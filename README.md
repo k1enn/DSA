@@ -1,5 +1,25 @@
-## Questions
-- [Buoi1](https://github.com/k1enn/DSA/blob/main/Buoi1/buoi1.md) **Cơ bản về phương pháp lập trình hướng đối tượng**
+<div align="center">
+  <p><strong>Follow me:</strong></p>
+</div>
+
+<div align="center">
+  <p>
+    <img src="https://github.com/k1enn/Web_Programming/blob/main/Buoi1/Bai01/images/github.png" alt="GitHub Logo" width="20" height="20" />
+    <strong><a href="https://github.com/k1enn" target="_blank">GitHub</a></strong>
+    <img style="padding-left: 10px;" src="https://github.com/k1enn/Web_Programming/blob/main/Buoi1/Bai01/images/codeforces.png" alt="Codeforces Logo" width="20" height="20" />
+    <strong><a href="https://codeforces.com/profile/dinhtrungkien" target="_blank">Codeforces</a></strong>
+    <img style="padding-left: 10px;" src="https://github.com/k1enn/Web_Programming/blob/main/Buoi1/Bai01/images/linkedin.png" alt="LinkedIn Logo" width="20" height="20" />
+    <strong><a href="https://www.linkedin.com/in/k1enn/" target="_blank">LinkedIn</a></strong>
+  </p>
+</div>
+## Buổi học
+- [Buổi 1: Cơ bản về phương pháp lập trình hướng đối tượng](https://github.com/k1enn/DSA/blob/main/Buoi1/buoi1.md)
+- [Buổi 2: Giải thuật tìm kiếm và sắp xếp trên mảng 1 chiều](https://github.com/k1enn/DSA/blob/main/Buoi2/buoi2.md)
+- [Buổi 3: Giải thuật tìm kiếm và sắp xếp trên mảng 1 chiều](https://github.com/k1enn/DSA/blob/main/Buoi3/buoi3.md)
+- [Buổi 4: Danh sách liên kết đơn - Phần 1](https://github.com/k1enn/DSA/blob/main/Buoi4/buoi4.md)
+- [Buổi 5: Danh sách liên kết đơn - Phần 2](https://github.com/k1enn/DSA/blob/main/Buoi5/buoi5.md)
+- [Buổi 6: Danh sách liên kết đơn](https://github.com/k1enn/DSA/blob/main/Buoi6/buoi6.md)
+
 ## Coding Exercise
 - [Queue](https://github.com/k1enn/DSA/blob/main/Quiz/Queue/Readme.md)
 
