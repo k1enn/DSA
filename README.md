@@ -14,12 +14,12 @@
 </div>
 
 ## Buổi học
-- [Buổi 1: Cơ bản về phương pháp lập trình hướng đối tượng](https://github.com/k1enn/DSA/blob/main/Buoi1/buoi1.md)
-- [Buổi 2: Giải thuật tìm kiếm và sắp xếp trên mảng 1 chiều](https://github.com/k1enn/DSA/blob/main/Buoi2/buoi2.md)
-- [Buổi 3: Giải thuật tìm kiếm và sắp xếp trên mảng 1 chiều](https://github.com/k1enn/DSA/blob/main/Buoi3/buoi3.md)
-- [Buổi 4: Danh sách liên kết đơn - Phần 1](https://github.com/k1enn/DSA/blob/main/Buoi4/buoi4.md)
-- [Buổi 5: Danh sách liên kết đơn - Phần 2](https://github.com/k1enn/DSA/blob/main/Buoi5/buoi5.md)
-- [Buổi 6: Danh sách liên kết đơn](https://github.com/k1enn/DSA/blob/main/Buoi6/buoi6.md)
+- [Buổi 1: Cơ bản về phương pháp lập trình hướng đối tượng](https://github.com/k1enn/DSA/blob/main/Buoi1/buoi1.md) - [Đáp án](https://github.com/k1enn/DSA/tree/main/Buoi1)
+- [Buổi 2: Giải thuật tìm kiếm và sắp xếp trên mảng 1 chiều](https://github.com/k1enn/DSA/blob/main/Buoi2/buoi2.md) - [Đáp án](https://github.com/k1enn/DSA/tree/main/Buoi2)
+- [Buổi 3: Giải thuật tìm kiếm và sắp xếp trên mảng 1 chiều](https://github.com/k1enn/DSA/blob/main/Buoi3/buoi3.md) - [Đáp án](https://github.com/k1enn/DSA/tree/main/Buoi3)
+- [Buổi 4: Danh sách liên kết đơn - Phần 1](https://github.com/k1enn/DSA/blob/main/Buoi4/buoi4.md) - [Đáp án](https://github.com/k1enn/DSA/tree/main/Buoi4)
+- [Buổi 5: Danh sách liên kết đơn - Phần 2](https://github.com/k1enn/DSA/blob/main/Buoi5/buoi5.md) - [Đáp án](https://github.com/k1enn/DSA/tree/main/Buoi5)
+- [Buổi 6: Danh sách liên kết đơn](https://github.com/k1enn/DSA/blob/main/Buoi6/buoi6.md) - [Đáp án](https://github.com/k1enn/DSA/tree/main/Buoi6)
 
 ## Coding Exercise
 - [Queue](https://github.com/k1enn/DSA/blob/main/Quiz/Queue/Readme.md)
