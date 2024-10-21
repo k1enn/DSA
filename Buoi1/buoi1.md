@@ -1,4 +1,4 @@
-<div align="center"><p><strong>Follow me:</strong></p>
+<div align="center"><p><strong>Follow me:</strong></p></div>
 <div align="center">
     <p>
         <img src="https://github.com/k1enn/Web_Programming/blob/main/Buoi1/Bai01/images/github.png" alt="Logo" width="20" height="20">
