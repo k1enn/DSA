@@ -1,4 +1,15 @@
-<p align="center">This text is centered</p>
+<div align="center">
+            <p>
+                <strong><a href="https://github.com/k1enn" target="_blank">GitHub</a></strong>
+            </p>
+            <p>
+                <strong><a href="https://codeforces.com/profile/dinhtrungkien" target="_blank">CodeForces</a></strong>
+            </p>
+            <p>
+                <strong><a href="https://www.linkedin.com/in/ki%C3%AAn-trung-1645b532a/" target="_blank">LinkedIn</a></strong>
+            </p>
+            
+</div>
 
 **Buổi 01**
 **Chủ đề: Cơ bản về phương pháp lập trình hướng đối tượng**
