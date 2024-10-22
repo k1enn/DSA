@@ -1,5 +1,5 @@
 <div align="center">
-	<h1>Buổi 7<br>Chủ đề: Danh sách liên kết đơn</h1>
+	<h1>Buổi 7<br>Chủ đề: Stack và Queue</h1>
 </div>
 
 <div align="center">
