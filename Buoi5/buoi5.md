@@ -17,6 +17,8 @@
   </p>
 </div>
 
+[Buổi 6](https://github.com/k1enn/DSA/blob/main/Buoi6/buoi6.md) | [Buổi 4](https://github.com/k1enn/DSA/blob/main/Buoi4/buoi4.md)
+## Nội dung:
 ### Yêu cầu: 
 Bổ sung vào lớp MyList các phương thức sau (sinh viên cần xác định các thành phần của phương thức cho phù hợp):
 1)	`Input()`: Viết lại hàm nhập sao các giá trị của danh sách không được trùng nhau (nếu trùng yêu cầu nhập lại giá trị khác).
