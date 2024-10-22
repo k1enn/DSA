@@ -17,6 +17,7 @@
   </p>
 </div>
 
+[Buổi 6](https://github.com/k1enn/DSA/blob/main/Buoi6/buoi6.md) | [Buổi 8](https://github.com/k1enn/DSA/blob/main/Buoi8/buoi8.md)
 ## Nội dung 
 ### Yêu cầu 1:
 Sử dụng cấu trúc mảng 1 chiều số nguyên, thiết kế lớp ArrayStack và thực hiện các yêu cầu sau:
