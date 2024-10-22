@@ -17,6 +17,8 @@
   </p>
 </div>
 
+[Buổi 2](https://github.com/k1enn/DSA/blob/main/Buoi2/buoi2.md)
+## Nội dung:
 Cho thông tin của sinh viên gồm:
 
 - *Mã số sinh viên (maSo): Chuỗi ký tự*
@@ -28,7 +30,6 @@ Cho thông tin của sinh viên gồm:
 
 Hãy thiết kế lớp sinh viên (SinhVien) gồm các thông tin trên.
 
-## Yêu cầu:
 ### Yêu cầu 1: Lớp sinh viên (SinhVien) gồm có các chức năng:
 1.	Nhập, xuất thông tin sinh viên
 2.	Xếp loại sinh viên dựa vào điểm trung bình tích lũy theo tiêu chí (diemTB < 5: Kém; 5 <= diemTB < 7: Trung bình; 7 <= diemTB < 8: Khá; còn lại là Giỏi) 
