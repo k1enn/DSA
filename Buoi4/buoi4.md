@@ -17,7 +17,8 @@
   </p>
 </div>
 
-## Yêu cầu
+[Buổi 3](https://github.com/k1enn/DSA/blob/main/Buoi3/buoi3.md) | [Buổi 6](https://github.com/k1enn/DSA/blob/main/Buoi6/buoi6.md)
+## Nội dung
 Thiết kế lớp danh sách liên kết đơn số nguyên: MyList. 
 ### Yêu cầu 1: 
 Lớp MyList gồm các thành phần sau:
