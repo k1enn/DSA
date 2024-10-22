@@ -15,6 +15,7 @@
     </p>
 </div>
 
+[Buổi 2](https://github.com/k1enn/DSA/blob/main/Buoi2/buoi2.md) | [Buổi 4](https://github.com/k1enn/DSA/blob/main/Buoi4/buoi4.md)
 ## Nội dung
 Dùng cấu trúc dữ liệu mảng 1 chiều, viết chương trình (ngôn ngữ C#) quản lý danh sách các quyển sách với các chức năng sau:
 1.	Các properties get/set và constructors cần thiết
