@@ -1,3 +1,34 @@
+<h1 align="center">Data Structures and Algorithms</h1>
+<div align="center">
+  <h3>Follow me: </h3>
+</div>
+
+<div align="center">
+  <p>
+    <img src="https://github.com/k1enn/Web_Programming/blob/main/Buoi1/Bai01/images/github.png" alt="GitHub Logo" width="20" height="20" />
+    <strong><a style="text-decoration:none;" href="https://github.com/k1enn" target="_blank">GitHub</a></strong>
+    <img style="padding-left: 10px; " src="https://github.com/k1enn/Web_Programming/blob/main/Buoi1/Bai01/images/codeforces.png" alt="Codeforces Logo" width="20" height="20" />
+    <strong><a style="text-decoration:none;" href="https://codeforces.com/profile/dinhtrungkien" target="_blank">Codeforces</a></strong>
+    <img style="padding-left: 10px;" src="https://github.com/k1enn/Web_Programming/blob/main/Buoi1/Bai01/images/linkedin.png" alt="LinkedIn Logo" width="20" height="20" />
+    <strong><a style="text-decoration:none;" href="https://www.linkedin.com/in/k1enn/" target="_blank">LinkedIn</a></strong>
+  </p>
+</div>
+
+## Lesson
+
+<ul style="list-style-type: none; padding: 0;">
+    <li><a href="https://github.com/k1enn/DSA/blob/main/Buoi1/buoi1.md" style="text-decoration: none;">Buổi 1: Cơ bản về phương pháp lập trình hướng đối tượng</a> - <a href="https://github.com/k1enn/DSA/tree/main/Buoi1" style="text-decoration: none;">Đáp án</a></li>
+    <li><a href="https://github.com/k1enn/DSA/blob/main/Buoi2/buoi2.md" style="text-decoration: none;">Buổi 2: Giải thuật tìm kiếm và sắp xếp trên mảng 1 chiều</a> - <a href="https://github.com/k1enn/DSA/tree/main/Buoi2" style="text-decoration: none;">Đáp án</a></li>
+    <li><a href="https://github.com/k1enn/DSA/blob/main/Buoi3/buoi3.md" style="text-decoration: none;">Buổi 3: Giải thuật tìm kiếm và sắp xếp trên mảng 1 chiều</a> - <a href="https://github.com/k1enn/DSA/tree/main/Buoi3" style="text-decoration: none;">Đáp án</a></li>
+    <li><a href="https://github.com/k1enn/DSA/blob/main/Buoi4/buoi4.md" style="text-decoration: none;">Buổi 4: Danh sách liên kết đơn - Phần 1</a> - <a href="https://github.com/k1enn/DSA/tree/main/Buoi4" style="text-decoration: none;">Đáp án</a></li>
+    <li><a href="https://github.com/k1enn/DSA/blob/main/Buoi5/buoi5.md" style="text-decoration: none;">Buổi 5: Danh sách liên kết đơn - Phần 2</a> - <a href="https://github.com/k1enn/DSA/tree/main/Buoi5" style="text-decoration: none;">Đáp án</a></li>
+    <li><a href="https://github.com/k1enn/DSA/blob/main/Buoi6/buoi6.md" style="text-decoration: none;">Buổi 6: Danh sách liên kết đơn</a> - <a href="https://github.com/k1enn/DSA/tree/main/Buoi6" style="text-decoration: none;">Đáp án</a></li>
+</ul>
+
+## Coding Exercise
+- [Queue](https://github.com/k1enn/DSA/blob/main/Quiz/Queue/Readme.md)
+
+
 ## Disclaimer
 This repository is intended for educational purposes only. It contains solutions and results related to Data Structures and Algorithms (DSA) for HUFLIT students. Please note the following:
 

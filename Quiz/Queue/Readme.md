@@ -1,6 +1,6 @@
 ## **Câu hỏi**
 Thiết kế lớp hàng đợi số nguyên dùng cấu trúc mảng 1 chiều xoay vòng và danh sách liên kết đơn.
-[Đáp án]()
+[Đáp án](https://github.com/k1enn/DSA/tree/main/Quiz/Queue/Answer)
 ### **Cấu trúc của Queue theo yêu cầu của đề**
 - Dùng 1 mảng (qArray) để chứa các phần tử
 - Dùng 1 số nguyên (qMax)để lưu số phần tử tối đa trong hàng đợi
@@ -9,11 +9,11 @@ Thiết kế lớp hàng đợi số nguyên dùng cấu trúc mảng 1 chiều 
 ```cs
 class MyQueue
 {
-		int [] qArray;
-		int	qMax;
-		int	qFront;
-		int	qRear;
-		//Các phương thức
+	int [] qArray;
+	int qMax;
+	int qFront;
+	int qRear;
+	//Các phương thức
 }
 ```
 ## **Lý thuyết**
