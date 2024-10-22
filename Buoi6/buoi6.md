@@ -17,6 +17,7 @@
   </p>
 </div>
 
+[Buổi 7](https://github.com/k1enn/DSA/blob/main/Buoi7/buoi7.md) | [Buổi 5](https://github.com/k1enn/DSA/blob/main/Buoi5/buoi5.md)
 ## Nội dung 
 Giả sử cần viết chương trình quản lý sinh viên của một trường đại học. Thông tin sinh viên gồm: Mã số (số nguyên), Họ và tên, năm sinh, giới tính, tên chuyên ngành và tên khoa. Hãy viết chương trình theo phương pháp OOP trên ngôn ngữ C# với các yêu cầu sau: 
 ### A.	Yêu cầu về cấu trúc dữ liệu:
