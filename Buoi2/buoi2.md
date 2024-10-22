@@ -17,6 +17,7 @@
   </p>
 </div>
 
+[Buổi 1](https://github.com/k1enn/DSA/blob/main/Buoi1/buoi1.md) | [Buổi 3](https://github.com/k1enn/DSA/blob/main/Buoi3/buoi3.md)
 ## Yêu cầu:
 ### Yêu cầu 1: 
 Cho lớp mảng một chiều số nguyên (IntArray). Lớp gồm các chức năng sau:
