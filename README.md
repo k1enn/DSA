@@ -16,14 +16,54 @@
 
 ## Lesson
 
-<ul style="list-style-type: none; padding: 0;">
-    <li><a href="https://github.com/k1enn/DSA/blob/main/Buoi1/buoi1.md" style="text-decoration: none;">Buổi 1: Cơ bản về phương pháp lập trình hướng đối tượng</a> - <a href="https://github.com/k1enn/DSA/tree/main/Buoi1" style="text-decoration: none;">Đáp án</a></li>
-    <li><a href="https://github.com/k1enn/DSA/blob/main/Buoi2/buoi2.md" style="text-decoration: none;">Buổi 2: Giải thuật tìm kiếm và sắp xếp trên mảng 1 chiều</a> - <a href="https://github.com/k1enn/DSA/tree/main/Buoi2" style="text-decoration: none;">Đáp án</a></li>
-    <li><a href="https://github.com/k1enn/DSA/blob/main/Buoi3/buoi3.md" style="text-decoration: none;">Buổi 3: Giải thuật tìm kiếm và sắp xếp trên mảng 1 chiều</a> - <a href="https://github.com/k1enn/DSA/tree/main/Buoi3" style="text-decoration: none;">Đáp án</a></li>
-    <li><a href="https://github.com/k1enn/DSA/blob/main/Buoi4/buoi4.md" style="text-decoration: none;">Buổi 4: Danh sách liên kết đơn - Phần 1</a> - <a href="https://github.com/k1enn/DSA/tree/main/Buoi4" style="text-decoration: none;">Đáp án</a></li>
-    <li><a href="https://github.com/k1enn/DSA/blob/main/Buoi5/buoi5.md" style="text-decoration: none;">Buổi 5: Danh sách liên kết đơn - Phần 2</a> - <a href="https://github.com/k1enn/DSA/tree/main/Buoi5" style="text-decoration: none;">Đáp án</a></li>
-    <li><a href="https://github.com/k1enn/DSA/blob/main/Buoi6/buoi6.md" style="text-decoration: none;">Buổi 6: Danh sách liên kết đơn</a> - <a href="https://github.com/k1enn/DSA/tree/main/Buoi6" style="text-decoration: none;">Đáp án</a></li>
-</ul>
+<div align="left"><table style="width:100%; border-collapse: collapse; border: 1px solid black;">
+    <thead>
+        <tr>
+            <th style="border: 1px solid black; padding: 8px;">Buổi học</th>
+            <th style="border: 1px solid black; padding: 8px;">Nội dung</th>
+            <th style="border: 1px solid black; padding: 8px;">Đáp án</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td style="border: 1px solid black; padding: 8px;">1</td>
+            <td style="border: 1px solid black; padding: 8px;"><a href="https://github.com/k1enn/DSA/blob/main/Buoi1/buoi1.md" style="text-decoration: none;">Cơ bản về phương pháp lập trình hướng đối tượng</a></td>
+            <td style="border: 1px solid black; padding: 8px;"><a href="https://github.com/k1enn/DSA/tree/main/Buoi1" style="text-decoration: none;">Đáp án</a></td>
+        </tr>
+        <tr>
+            <td style="border: 1px solid black; padding: 8px;">2</td>
+            <td style="border: 1px solid black; padding: 8px;"><a href="https://github.com/k1enn/DSA/blob/main/Buoi2/buoi2.md" style="text-decoration: none;">Giải thuật tìm kiếm và sắp xếp trên mảng 1 chiều</a></td>
+            <td style="border: 1px solid black; padding: 8px;"><a href="https://github.com/k1enn/DSA/tree/main/Buoi2" style="text-decoration: none;">Đáp án</a></td>
+        </tr>
+        <tr>
+            <td style="border: 1px solid black; padding: 8px;">3</td>
+            <td style="border: 1px solid black; padding: 8px;"><a href="https://github.com/k1enn/DSA/blob/main/Buoi3/buoi3.md" style="text-decoration: none;">Giải thuật tìm kiếm và sắp xếp trên mảng 1 chiều</a></td>
+            <td style="border: 1px solid black; padding: 8px;"><a href="https://github.com/k1enn/DSA/tree/main/Buoi3" style="text-decoration: none;">Đáp án</a></td>
+        </tr>
+        <tr>
+            <td style="border: 1px solid black; padding: 8px;">4</td>
+            <td style="border: 1px solid black; padding: 8px;"><a href="https://github.com/k1enn/DSA/blob/main/Buoi4/buoi4.md" style="text-decoration: none;">Danh sách liên kết đơn - Phần 1</a></td>
+            <td style="border: 1px solid black; padding: 8px;"><a href="https://github.com/k1enn/DSA/tree/main/Buoi4" style="text-decoration: none;">Đáp án</a></td>
+        </tr>
+        <tr>
+            <td style="border: 1px solid black; padding: 8px;">5</td>
+            <td style="border: 1px solid black; padding: 8px;"><a href="https://github.com/k1enn/DSA/blob/main/Buoi5/buoi5.md" style="text-decoration: none;">Danh sách liên kết đơn - Phần 2</a></td>
+            <td style="border: 1px solid black; padding: 8px;"><a href="https://github.com/k1enn/DSA/tree/main/Buoi5" style="text-decoration: none;">Đáp án</a></td>
+        </tr>
+        <tr>
+            <td style="border: 1px solid black; padding: 8px;">6</td>
+            <td style="border: 1px solid black; padding: 8px;"><a href="https://github.com/k1enn/DSA/blob/main/Buoi6/buoi6.md" style="text-decoration: none;">Danh sách liên kết đơn</a></td>
+            <td style="border: 1px solid black; padding: 8px;"><a href="https://github.com/k1enn/DSA/tree/main/Buoi6" style="text-decoration: none;">Đáp án</a></td>
+        </tr>
+        <tr>
+            <td style="border: 1px solid black; padding: 8px;">7</td>
+            <td style="border: 1px solid black; padding: 8px;"><a href="https://github.com/k1enn/DSA/blob/main/Buoi7/buoi7.md" style="text-decoration: none;">Stack và Queue</a></td>
+            <td style="border: 1px solid black; padding: 8px;"><a href="https://github.com/k1enn/DSA/tree/main/Buoi7" style="text-decoration: none;">Đáp án</a></td>
+        </tr>
+    </tbody>
+</table>
+</div>
+
 
 ## Coding Exercise
 - [Queue](https://github.com/k1enn/DSA/blob/main/Quiz/Queue/Readme.md)
