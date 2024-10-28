@@ -69,17 +69,6 @@
 - [Queue](https://github.com/k1enn/DSA/blob/main/Quiz/Queue/Readme.md)
 
 
-## Disclaimer
-This repository is intended for educational purposes only. It contains solutions and results related to Data Structures and Algorithms (DSA) for HUFLIT students. Please note the following:
-
-- **Academic Integrity**: The contents of this repository are meant to serve as a reference or learning resource. Students are encouraged to use these materials to enhance their understanding, but should avoid directly copying or submitting these solutions for academic credit.
-- **No Guarantee of Accuracy**: While every effort has been made to ensure the accuracy of the content, mistakes may exist. Users should verify and cross-check the solutions before using them in academic or professional work.
-- **No Liability**: The repository owner is not responsible for any misuse of the provided materials, including violations of academic policies or misconduct.
-- **Respect for Copyright**: Please respect the intellectual property rights of the repository owner and other contributors. Do not redistribute or republish the content without proper attribution.
-By using this repository, you agree to these terms and to uphold academic honesty.
-
-Here's the Vietnamese version of the disclaimer:
-
 ---
 
 ### Thông Báo Pháp Lý
