@@ -12,8 +12,6 @@ namespace k1enn
         private int data;
         private IntTNode left;
         private IntTNode right;
-        int count = 0;
-        int height;
 
         public int Data
         {
@@ -52,7 +50,6 @@ namespace k1enn
                     left = new IntTNode(x);
                 else
                 {
-                    count++;
                     return left.InsertNode(x);
                 }
             }
@@ -64,7 +61,6 @@ namespace k1enn
                     right = new IntTNode(x);
                 else
                 {
-                    count++;
                     return right.InsertNode(x);
                 }
             }
