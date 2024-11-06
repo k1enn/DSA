@@ -60,10 +60,15 @@
             <td style="border: 1px solid black; padding: 8px;"><a href="https://github.com/k1enn/DSA/blob/main/Buoi7/buoi7.md" style="text-decoration: none;">Stack và Queue</a></td>
             <td style="border: 1px solid black; padding: 8px;"><a href="https://github.com/k1enn/DSA/tree/main/Buoi7" style="text-decoration: none;">Đáp án</a></td>
         </tr>
-      <tr>
+        <tr>
             <td style="border: 1px solid black; padding: 8px;">8</td>
             <td style="border: 1px solid black; padding: 8px;"><a href="https://github.com/k1enn/DSA/blob/main/Buoi8/buoi8.md" style="text-decoration: none;">Cây nhị phân tìm kiếm</a></td>
             <td style="border: 1px solid black; padding: 8px;"><a href="https://github.com/k1enn/DSA/tree/main/Buoi8" style="text-decoration: none;">Đáp án</a></td>
+        </tr>
+        <tr>
+            <td style="border: 1px solid black; padding: 8px;">9</td>
+            <td style="border: 1px solid black; padding: 8px;"><a href="https://github.com/k1enn/DSA/blob/main/Buoi9/buoi9.md" style="text-decoration: none;">Cây nhị phân tìm kiếm cân bằng</a></td>
+            <td style="border: 1px solid black; padding: 8px;"><a href="https://github.com/k1enn/DSA/tree/main/Buoi9" style="text-decoration: none;">Đáp án</a></td>
         </tr>
     </tbody>
 </table>
