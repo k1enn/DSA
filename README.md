@@ -1,7 +1,11 @@
-<h1 align="center">Data Structures and Algorithms</h1>
+<h1 align="center">
+  Data Structures and Algorithms
+</h1>
 <div align="center">
   <h3>Follow me: </h3>
 </div>
+
+
 
 <div align="center">
   <p>
@@ -12,6 +16,7 @@
     <img style="padding-left: 10px;" src="https://github.com/k1enn/Web_Programming/blob/main/Buoi1/Bai01/images/linkedin.png" alt="LinkedIn Logo" width="20" height="20" />
     <strong><a style="text-decoration:none;" href="https://www.linkedin.com/in/k1enn/" target="_blank">LinkedIn</a></strong>
   </p>
+      <small> November, 2024</small>
 </div>
 
 ## Lesson
