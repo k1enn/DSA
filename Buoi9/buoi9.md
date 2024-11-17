@@ -17,7 +17,7 @@
   </p>
 </div>
 
-
+[Buổi 8](https://github.com/k1enn/DSA/blob/main/Buoi8/buoi8.md) | [Buổi 10](https://github.com/k1enn/DSA/blob/main/Buoi10/buoi10.md) 
 ## Nội dung: 
 
 1. Tạo một Project C# mới với tên là `HoTen_Lab06` (trong đó: HoTen là họ và tên của sinh viên, không khoảng trắng và không dấu tiếng Việt).
