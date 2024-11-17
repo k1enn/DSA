@@ -17,7 +17,7 @@
   </p>
 </div>
 
-[Buổi 7](https://github.com/k1enn/DSA/blob/main/Buoi7/buoi7.md) 
+[Buổi 7](https://github.com/k1enn/DSA/blob/main/Buoi7/buoi7.md) | [Buổi 9](https://github.com/k1enn/DSA/blob/main/Buoi9/buoi9.md) 
 
 ## Nội dung
 ### Yêu cầu 1: 
