@@ -70,6 +70,11 @@
             <td style="border: 1px solid black; padding: 8px;"><a href="https://github.com/k1enn/DSA/blob/main/Buoi9/buoi9.md" style="text-decoration: none;">Cây nhị phân tìm kiếm cân bằng</a></td>
             <td style="border: 1px solid black; padding: 8px;"><a href="https://github.com/k1enn/DSA/tree/main/Buoi9" style="text-decoration: none;">Đáp án</a></td>
         </tr>
+        <tr>
+            <td style="border: 1px solid black; padding: 8px;">10</td>
+            <td style="border: 1px solid black; padding: 8px;"><a href="https://github.com/k1enn/DSA/blob/main/Buoi10/buoi10.md" style="text-decoration: none;">Ôn tập</a></td>
+            <td style="border: 1px solid black; padding: 8px;"><a href="https://github.com/k1enn/DSA/tree/main/Buoi10" style="text-decoration: none;">Đáp án</a></td>
+        </tr>
     </tbody>
 </table>
 </div>
