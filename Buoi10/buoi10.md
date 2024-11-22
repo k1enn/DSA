@@ -35,6 +35,11 @@ Làm các bài tập giải đề liên quan tới các buổi đã học, bao g
             <td style="border: 1px solid black; padding: 8px;"><a href="https://github.com/k1enn/DSA/blob/main/Buoi10/De1/de1.md" style="text-decoration: none;">Ôn tập cây nhị phân tìm kiếm</a></td>
             <td style="border: 1px solid black; padding: 8px;"><a href="https://github.com/k1enn/DSA/tree/main/Buoi10/De1" style="text-decoration: none;">Đáp án</a></td>
         </tr>       
+        <tr>
+            <td style="border: 1px solid black; padding: 8px;">2</td>
+            <td style="border: 1px solid black; padding: 8px;"><a href="https://github.com/k1enn/DSA/blob/main/Buoi10/De1/de2.md" style="text-decoration: none;">Ôn tập</a></td>
+            <td style="border: 1px solid black; padding: 8px;"><a href="https://github.com/k1enn/DSA/tree/main/Buoi10/De2" style="text-decoration: none;">Đáp án</a></td>
+        </tr>     
     </tbody>
 </table>
 </div>
